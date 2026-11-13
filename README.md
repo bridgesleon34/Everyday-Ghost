@@ -203,4 +203,4 @@ This repository serves as the official landing page for Everyday Ghost. The soft
 **Get the most recent version of Everyday Ghost today!**
 
 ---
-**Last updated:** 2026-11-12 18:00:16 UTC
+**Last updated:** 2026-11-13 00:00:03 UTC
